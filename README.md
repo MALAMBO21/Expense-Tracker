@@ -113,6 +113,8 @@ By category:
 
 ## Project structure
 
+
+https://github.com/MALAMBO21/Expense-Tracker
 ```
 src/
   Expense.java         Expense model (id, date, description, amount, category)
